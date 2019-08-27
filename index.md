@@ -1,3 +1,9 @@
+# Xander Weintraut's First CS193 Homework
+I'm excited to see what this class holds. Some things that particularly excite me are:
+- The class is run by students
+- The curriculum changes depending on our needs
+- I finally get to seriously learn how to use GitHub!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
